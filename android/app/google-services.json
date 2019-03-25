@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "876956602762",
+    "firebase_url": "https://fir-8d55b.firebaseio.com",
+    "project_id": "fir-8d55b",
+    "storage_bucket": "fir-8d55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876956602762:android:7f42c7e23025e9cd",
+        "android_client_info": {
+          "package_name": "com.fbcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876956602762-f2kpml1r7b6gd0fmb62u79f2g6hu236o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAD3_Z21MvY3ARJjahoQHwK-DLPUnCy4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
