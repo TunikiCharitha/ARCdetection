@@ -1,0 +1,33 @@
+{
+  "name": "fbcheck",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mapbox/react-native-mapbox-gl": "^6.1.3",
+    "react": "16.6.3",
+    "react-native": "0.58.4",
+    "react-native-bluetooth-serial": "^1.0.0-rc1",
+    "react-native-event-listeners": "^1.0.3",
+    "react-native-firebase": "^5.2.2",
+    "react-native-flip-view": "^1.0.5",
+    "react-native-maps": "^0.23.0",
+    "react-native-maps-directions": "^1.6.0",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-swiper": "^1.5.14",
+    "react-timestamp": "^4.4.0"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "^0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
